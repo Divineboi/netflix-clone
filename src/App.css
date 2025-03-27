@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=DM+Serif+Text:ital@0;1&family=Jersey+15&family=Playwrite+AU+SA:wght@100..400&family=Playwrite+GB+J+Guides:ital@0;1&family=Playwrite+TZ+Guides&family=Quattrocento:wght@400;700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Mono+One&family=Rubik+Vinyl&family=Varela&display=swap');
+
+
+
+body {
+    background-color: #000000;
+}
+
+.hero-page{
+    background: url(netflix.jpg);
+    height: 100vh;
+    width: 100%;
+}
+.word{
+    font-size: 900px;
+    font-family: "Boldonse", system-ui;
+}

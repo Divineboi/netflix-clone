@@ -1,0 +1,133 @@
+
+
+
+ul li{
+    
+  list-style: none;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 500;
+ }
+ 
+
+  button{
+      padding: 10px 10px;
+      background-color: black;
+      border-radius: 8px;
+      color: white;
+  }
+
+  .butin{
+      float: right;
+  }
+
+  
+
+  p b {
+      font-size: 50px;
+  }
+
+  .hero{
+      
+      justify-content: center;
+      place-items: center;
+  }
+
+  footer{
+      margin-top: 80px;
+      display: flex;
+      gap: 35px;
+      justify-content: center;
+  }
+
+  h4{
+      margin-right: 25px;
+  }
+
+  aside{
+      width: 14%;
+      background-color:#333;
+      height: 100vh;
+      color: white;
+      transition: 0.8s;
+      top: 0;
+      bottom: 0;
+       left: -350px;
+      position: absolute;
+  }
+
+  
+  #sidebar.open{
+      left: 0;
+      
+  }
+
+  h3{
+   margin-left: 10px;
+   margin-top: 30px;
+   margin-right: 10px;
+   font-size: 20px;
+   color: #f1c40f;
+  }
+
+  .dash{
+  border-bottom:2px solid white;
+  margin-left: 20px;
+  margin-right: 20px;
+  }
+  .deel{
+ color: green;
+  margin-right: 900px;
+   font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-weight: 600;
+    
+  }
+  a{
+      text-decoration: none;
+  }
+  #toggleButton{
+      cursor: pointer;
+      font-size: 25px;
+  }
+  .buttin{
+      background-color: white; border: white;
+       color: black;
+  }
+  .list-0{
+      margin-top: 100px;
+  }
+
+  #sidebar{
+      float: left;
+  }
+  .ital{
+      color: green;
+  }
+
+  .start{
+      color: white; 
+      background-color: green;
+       border: green;
+  }
+
+
+
+  /*import React from 'react';
+import Aside from './components/Aside';
+import Head from './components/Head';
+import Footer from './components/Footer';
+import './style/App.css';
+
+function App(){
+  return(
+    <div>
+    <Head/>
+    <Aside/>
+    <Footer/>
+         
+    </div>
+  )
+}
+
+*/
