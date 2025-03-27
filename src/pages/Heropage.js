@@ -20,9 +20,9 @@ const Heropage = ()=>{
                    <p className="text-light">Ready To Watch? Enter Your Email To Create or Restart your Membership.</p>
                    
                    </div>
-                   <div className="container w-70 d-flex">
-                    <FormControl type="text" placeholder="Email address" className="Form control text-white fs-5 fw-bold  border-2 border-white bg-dark "></FormControl>
-                    <Button className="btn-danger text-light ms-4  fw-bold fs-4">Get Started</Button>
+                   <div className="container d-flex justify-content-center align-items-center">
+                    <FormControl type="text" placeholder="Email address" className="w-50 text-white fs-5 border-2 border-danger"></FormControl>
+                    <Button className="btn btn-danger text-light ms-4">Get Started </Button>
                    </div>
             
             </div>

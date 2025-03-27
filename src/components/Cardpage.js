@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Card, Col, Button} from "react-bootstrap";
+import { Container, Row, Card, Col} from "react-bootstrap";
 const Cardpage = () =>{
     return(
         <div>
