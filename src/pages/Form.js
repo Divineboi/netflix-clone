@@ -12,7 +12,7 @@ const Form = ()=>{
           </div>
                        <div className="container w-70 d-flex justify-content-center align-items-center mt-5">
                 <FormControl type="text" className="form-control w-50 text-white fs-5 border-2 border-danger" placeholder="Email address"></FormControl>
-                 <Button className="btn-danger text-light ms-4 fs-4">Get Started</Button>
+                 <Button className="btn btn-danger text-light ms-4">Get Started</Button>
                    </div>
            </Container>
            </div>
