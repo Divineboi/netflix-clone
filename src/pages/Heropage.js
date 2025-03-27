@@ -21,7 +21,7 @@ const Heropage = ()=>{
                    
                    </div>
                    <div className="container d-flex justify-content-center align-items-center">
-                    <FormControl type="text" placeholder="Email address" className="w-50 text-white fs-5 border-2 border-danger"></FormControl>
+                    <FormControl type="text" placeholder="Email address" className="w-50 text-dark fs-5 border-2"></FormControl>
                     <Button className="btn btn-danger text-light ms-4">Get Started </Button>
                    </div>
             
